@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢喰",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-18T14:09:06.090663Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢喰",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_夢喰_Tani_Yuuki.txt"
+    }
+  ]
+}
